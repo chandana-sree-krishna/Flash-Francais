@@ -8,10 +8,6 @@ FlashFrancais is a simple Android application for learning French vocabulary thr
 - Toggle between French and English by tapping on the flashcard text.
 - Supports multiple categories: colors, days of the week, greetings, animals, and more.
 
-## Screenshots
-
-Include screenshots here.
-
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/FlashFrancais.git`

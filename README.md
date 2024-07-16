@@ -71,7 +71,6 @@ Once you have installed the FlashFrancais application on your Android device, fo
    - The first flashcard shows "Rouge."
    - You tap on "Rouge" to see its English translation, "Red."
 
-Open the app and select the ca
 
 ## Technologies Used
 
